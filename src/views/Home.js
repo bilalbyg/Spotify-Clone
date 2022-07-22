@@ -4,10 +4,12 @@ function Home() {
   const items = [
     {
       id: 1,
-      title: "Don's TunesDon's Tunes Don's TunesDon's Tunes",
-      description: "Spotify",
-      image: "https://i.scdn.co/image/ab67706c0000bebbd0fa8e8d4c5dce43d9b60a29",
-      type: "album",
+      title: 'Don\'s TunesDon\'s Tunes Don\'s TunesDon\'s Tunes',
+      description: 'Spotify',
+      image: 'https://i.scdn.co/image/ab67706c0000bebbd0fa8e8d4c5dce43d9b60a29',
+      type: 'album',
+      src: 'https://cdn.freesound.org/previews/498/498368_542096-lq.mp3',
+      artis: 'Bilal Beygo'
     },
     {
       id: 2,
@@ -15,6 +17,7 @@ function Home() {
       description: "Spotify",
       image: "https://i.scdn.co/image/ab67706c0000bebbd0fa8e8d4c5dce43d9b60a29",
       type: "album",
+      src: "https://cdn.freesound.org/previews/498/498368_542096-lq.mp3"
     },
     {
       id: 3,
@@ -22,6 +25,7 @@ function Home() {
       description: "Spotify",
       image: "https://i.scdn.co/image/ab67706c0000bebbd0fa8e8d4c5dce43d9b60a29",
       type: "album",
+      src: "https://cdn.freesound.org/previews/498/498368_542096-lq.mp3"
     },
     {
       id: 4,
